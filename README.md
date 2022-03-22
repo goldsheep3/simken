@@ -1,3 +1,3 @@
-# snow-cloud-sky
+# simken
 
-雪云天
+schnee-himmel-wolken，雪云天。名字来源于德语。
