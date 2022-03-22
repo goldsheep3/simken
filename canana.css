@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+    background-color:darkgrey;
+}
+
+#softtitle
+{
+    font-size: 1.6em;
+    font-weight:bold;
+    color:lightskyblue;
+}
+
+#categories
+{
+    font-size: 0.75em;
+}
+
+#introduce
+{
+    font-size:0.9em;
+    font-style:italic;
+    color:grey;
+}

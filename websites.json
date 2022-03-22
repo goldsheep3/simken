@@ -1,0 +1,29 @@
+{
+  "webs": [
+    {
+      "name": "Google Chrome",
+      "abbr": "chrome",
+      "categories": "浏览器",
+      "link": {
+        "icon": "",
+        "main": "",
+        "download": ""
+      },
+      "os": [
+        "Windows",
+        "Android",
+        "iOS",
+        "MacOS",
+        "Linux"
+      ],
+      "developer": "Google Inc.",
+      "introduce": "无需多说，好用。唯一的问题是内存占用偏大，但功能很强大。"
+    }
+  ],
+  "categories-abbr": {
+    "浏览器": "browser"
+  },
+  "developer-abbr": {
+    "Google Inc.": "google"
+  }
+}
