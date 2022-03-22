@@ -1,0 +1,21 @@
+{
+    "categories": [
+        {
+            "browser": "浏览器",
+            "": ""
+        }
+    ],
+    "developer": [
+        {
+            "microsoft": "微软 Microsoft",
+            "google": "谷歌 Google Inc."
+        }
+    ],
+    "forms": [
+        {
+            "en": "necessities",
+            "cn": "",
+            "apps": []
+        }
+    ]
+}
