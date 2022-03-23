@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 3272763 */
+    src: url('//at.alicdn.com/t/font_3272763_zzaf3c97xvj.eot?t=1648052409412'); /* IE9 */
+    src: url('//at.alicdn.com/t/font_3272763_zzaf3c97xvj.eot?t=1648052409412#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('//at.alicdn.com/t/font_3272763_zzaf3c97xvj.woff2?t=1648052409412') format('woff2'),
+         url('//at.alicdn.com/t/font_3272763_zzaf3c97xvj.woff?t=1648052409412') format('woff'),
+         url('//at.alicdn.com/t/font_3272763_zzaf3c97xvj.ttf?t=1648052409412') format('truetype'),
+         url('//at.alicdn.com/t/font_3272763_zzaf3c97xvj.svg?t=1648052409412#iconfont') format('svg');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-android:before {
+    content: "\e610";
+  }
+  
+  .icon-ios:before {
+    content: "\e60c";
+  }
+  
+  .icon-windows:before {
+    content: "\e6b0";
+  }
+  
+  .icon-linux:before {
+    content: "\e608";
+  }
+  
+  .icon-macos:before {
+    content: "\e8df";
+  }
