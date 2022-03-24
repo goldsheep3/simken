@@ -9,7 +9,7 @@ h1, p
 .midbox
 {
     margin: 0 auto;
-    width: 800px
+    width: 1000px
 }
 
 .floatbox
@@ -20,14 +20,14 @@ h1, p
 .midspace
 {
     float: left;
-    width: 25px
+    width: 75px
 }
 
 .softtitle
 {
     font-size: 1.6em;
     font-weight: bold;
-    color: lightskyblue;
+    color: rgb(0, 157, 255);
 }
 
 .categories
