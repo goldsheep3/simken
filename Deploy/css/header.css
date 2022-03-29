@@ -1,0 +1,32 @@
+@charset "utf-8";
+/*非原创，来源https://blog.csdn.net/no2015214099/article/details/72794032*/
+
+.headul {
+    margin: 0 auto;
+    width: 770px;
+    height: 30px;
+    padding: 0;
+}
+
+.headli {
+    list-style-type: none;
+    float: left;
+}
+
+.headlink {
+    display: block;
+    width: 128px;
+    height: 30px;
+    font-family: Microsoft Yahei;
+    line-height: 30px;
+    margin: 0px 0px;
+    color: #000;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.headlink:hover {
+    color: #fff;
+    background-color: #009dff;
+}

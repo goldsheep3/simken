@@ -1,61 +1,59 @@
 @charset "utf-8";
 /* CSS Document */
 
-h1, p
-{text-align: center;}
-
-a
-{text-decoration:none;}
-
-.midbox
-{
-    margin: 0 auto;
-    width: 980px;
-    background-color: aliceblue;
+h1, p {
+    text-align: center;
 }
 
-.appcubic
-{
+a {
+    text-decoration:none;
+}
+
+.midbox {
+    margin: 0 auto;
+    width: 980px;
+}
+
+.appcubic {
     float: left;
     width: 480px;
 }
 
-.iconbox
-{
+.iconbox {
     float: left;
     width: 80px;
 }
 
-.infobox
-{
+.infobox {
     float: left;
     width: 320px;
 }
 
-.buttonbox
-{
+.buttonbox {
     float: left;
     width: 80px;
 }
 
-.space
-{
+.space {
     float: left;
     width: 20px;
     }
 
-.softtitle
-{
+.softtitle {
     font-size: 1.6em;
     font-weight: bold;
-    color: rgb(0, 157, 255);
+    color: #009dff;
 }
 
-.categories
-{font-size: 0.75em;}
+.sma {
+    color: #007ecc;
+}
 
-.introduce
-{
+.categories {
+    font-size: 0.75em;
+}
+
+.introduce {
     font-size: 0.9em;
     font-style: italic;
     color: grey;

@@ -1,37 +1,89 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3272763 */
-  src: url('//at.alicdn.com/t/font_3272763_q33170ken5f.eot?t=1648527771819'); /* IE9 */
-  src: url('//at.alicdn.com/t/font_3272763_q33170ken5f.eot?t=1648527771819#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('//at.alicdn.com/t/font_3272763_q33170ken5f.woff2?t=1648527771819') format('woff2'),
-       url('//at.alicdn.com/t/font_3272763_q33170ken5f.woff?t=1648527771819') format('woff'),
-       url('//at.alicdn.com/t/font_3272763_q33170ken5f.ttf?t=1648527771819') format('truetype'),
-       url('//at.alicdn.com/t/font_3272763_q33170ken5f.svg?t=1648527771819#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/font_3272763_m169w5dzqj9.eot?t=1648547778414'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_3272763_m169w5dzqj9.eot?t=1648547778414#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('//at.alicdn.com/t/font_3272763_m169w5dzqj9.woff2?t=1648547778414') format('woff2'),
+       url('//at.alicdn.com/t/font_3272763_m169w5dzqj9.woff?t=1648547778414') format('woff'),
+       url('//at.alicdn.com/t/font_3272763_m169w5dzqj9.ttf?t=1648547778414') format('truetype'),
+       url('//at.alicdn.com/t/font_3272763_m169w5dzqj9.svg?t=1648547778414#iconfont') format('svg');
 }
 
 .iconfont {
   font-family: "iconfont" !important;
-  font-size: 16px;
+  font-size: 1em;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-android:before {
+.icon-fenlei1:before {
+  content: "\e61c";
+}
+
+.icon-shoucang1:before {
+  content: "\e621";
+}
+
+.icon-shouye:before {
+  content: "\e622";
+}
+
+.icon-caidan:before {
+  content: "\e62f";
+}
+
+.icon-pailie:before {
+  content: "\e643";
+}
+
+.icon-heart:before {
+  content: "\f013";
+}
+
+.icon-18:before {
+  content: "\e611";
+}
+
+.icon-fenlei:before {
+  content: "\e600";
+}
+
+.icon-quanbu:before {
+  content: "\e61b";
+}
+
+.icon-kaifazhex:before {
+  content: "\e705";
+}
+
+.icon-heji:before {
+  content: "\e6ce";
+}
+
+icon-android:before {
   content: "\e610";
+  color:#44bb33cc;
+  font-size: 0.8em;
 }
 
 .icon-ios:before {
   content: "\e60c";
+  color:#ffffffcc;
+  font-size: 0.8em;
 }
 
 .icon-windows:before {
   content: "\e6b0";
+  color:#0099ffcc;
+  font-size: 0.8em;
 }
 
 .icon-linux:before {
   content: "\e608";
+  font-size: 0.8em;
 }
 
 .icon-macos:before {
   content: "\e8df";
+  font-size: 0.8em;
 }
